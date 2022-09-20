@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/oasis-homepage-build/static/css/main.b1db4d27.css",
-    "main.js": "/oasis-homepage-build/static/js/main.03d5cfc9.js",
+    "main.js": "/oasis-homepage-build/static/js/main.19a7e776.js",
     "static/media/Pretendard-Light.otf": "/oasis-homepage-build/static/media/Pretendard-Light.b751f0c99ed43c34e627.otf",
     "static/media/Pretendard-Medium.otf": "/oasis-homepage-build/static/media/Pretendard-Medium.a8904df42c9b4f93a668.otf",
     "static/media/Pretendard-SemiBold.otf": "/oasis-homepage-build/static/media/Pretendard-SemiBold.d8e6b49c5bbba3cd911b.otf",
@@ -11,12 +11,27 @@
     "static/media/Pretendard-Black.otf": "/oasis-homepage-build/static/media/Pretendard-Black.2017bdd775a38f0779e2.otf",
     "static/media/Pretendard-ExtraLight.otf": "/oasis-homepage-build/static/media/Pretendard-ExtraLight.6591d0775b8172aee406.otf",
     "static/media/Pretendard-Thin.otf": "/oasis-homepage-build/static/media/Pretendard-Thin.6c732c788300615e6a65.otf",
+    "static/media/DashBoard.png": "/oasis-homepage-build/static/media/DashBoard.a4268c43625d437d39ea.png",
+    "static/media/OASISBot.png": "/oasis-homepage-build/static/media/OASISBot.f0aaf60313b4db57b07b.png",
+    "static/media/BackTest.png": "/oasis-homepage-build/static/media/BackTest.6d32b9df0cd051e3cf59.png",
+    "static/media/nft2.png": "/oasis-homepage-build/static/media/nft2.55e2ef59b560e8a32775.png",
+    "static/media/nft4.png": "/oasis-homepage-build/static/media/nft4.45493e53e7baed089d26.png",
+    "static/media/logo.png": "/oasis-homepage-build/static/media/logo.f008e478ff6584f91e11.png",
+    "static/media/nft3.png": "/oasis-homepage-build/static/media/nft3.0a31b108aedb76492cfc.png",
+    "static/media/nft1.png": "/oasis-homepage-build/static/media/nft1.4ee9c5b73a755ca122d4.png",
+    "static/media/Additional.png": "/oasis-homepage-build/static/media/Additional.6fd3f7e81124f28c0785.png",
+    "static/media/Oasis.png": "/oasis-homepage-build/static/media/Oasis.754131540f31338b2e21.png",
+    "static/media/Advantage.png": "/oasis-homepage-build/static/media/Advantage.83873c72bccec36b343c.png",
+    "static/media/About2.png": "/oasis-homepage-build/static/media/About2.90cabc71d996cfff0a14.png",
+    "static/media/About1.png": "/oasis-homepage-build/static/media/About1.93ecbc56cbdb3b01033a.png",
+    "static/media/upbit.png": "/oasis-homepage-build/static/media/upbit.580284ff830259cde121.png",
+    "static/media/title.png": "/oasis-homepage-build/static/media/title.dda46c8a641493e3ffde.png",
     "index.html": "/oasis-homepage-build/index.html",
     "main.b1db4d27.css.map": "/oasis-homepage-build/static/css/main.b1db4d27.css.map",
-    "main.03d5cfc9.js.map": "/oasis-homepage-build/static/js/main.03d5cfc9.js.map"
+    "main.19a7e776.js.map": "/oasis-homepage-build/static/js/main.19a7e776.js.map"
   },
   "entrypoints": [
     "static/css/main.b1db4d27.css",
-    "static/js/main.03d5cfc9.js"
+    "static/js/main.19a7e776.js"
   ]
 }
