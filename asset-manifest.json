@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b82a0243.css",
-    "main.js": "/static/js/main.03d5cfc9.js",
-    "static/media/Pretendard-Light.otf": "/static/media/Pretendard-Light.b751f0c99ed43c34e627.otf",
-    "static/media/Pretendard-Medium.otf": "/static/media/Pretendard-Medium.a8904df42c9b4f93a668.otf",
-    "static/media/Pretendard-SemiBold.otf": "/static/media/Pretendard-SemiBold.d8e6b49c5bbba3cd911b.otf",
-    "static/media/Pretendard-Bold.otf": "/static/media/Pretendard-Bold.3ec32cdae5bc0c0026a6.otf",
-    "static/media/Pretendard-Regular.otf": "/static/media/Pretendard-Regular.de88013f2ea98a04dede.otf",
-    "static/media/Pretendard-ExtraBold.otf": "/static/media/Pretendard-ExtraBold.6a8d330cb367af8c7a57.otf",
-    "static/media/Pretendard-Black.otf": "/static/media/Pretendard-Black.2017bdd775a38f0779e2.otf",
-    "static/media/Pretendard-ExtraLight.otf": "/static/media/Pretendard-ExtraLight.6591d0775b8172aee406.otf",
-    "static/media/Pretendard-Thin.otf": "/static/media/Pretendard-Thin.6c732c788300615e6a65.otf",
-    "index.html": "/index.html",
-    "main.b82a0243.css.map": "/static/css/main.b82a0243.css.map",
-    "main.03d5cfc9.js.map": "/static/js/main.03d5cfc9.js.map"
+    "main.css": "/oasis-homepage-build/static/css/main.b1db4d27.css",
+    "main.js": "/oasis-homepage-build/static/js/main.03d5cfc9.js",
+    "static/media/Pretendard-Light.otf": "/oasis-homepage-build/static/media/Pretendard-Light.b751f0c99ed43c34e627.otf",
+    "static/media/Pretendard-Medium.otf": "/oasis-homepage-build/static/media/Pretendard-Medium.a8904df42c9b4f93a668.otf",
+    "static/media/Pretendard-SemiBold.otf": "/oasis-homepage-build/static/media/Pretendard-SemiBold.d8e6b49c5bbba3cd911b.otf",
+    "static/media/Pretendard-Bold.otf": "/oasis-homepage-build/static/media/Pretendard-Bold.3ec32cdae5bc0c0026a6.otf",
+    "static/media/Pretendard-Regular.otf": "/oasis-homepage-build/static/media/Pretendard-Regular.de88013f2ea98a04dede.otf",
+    "static/media/Pretendard-ExtraBold.otf": "/oasis-homepage-build/static/media/Pretendard-ExtraBold.6a8d330cb367af8c7a57.otf",
+    "static/media/Pretendard-Black.otf": "/oasis-homepage-build/static/media/Pretendard-Black.2017bdd775a38f0779e2.otf",
+    "static/media/Pretendard-ExtraLight.otf": "/oasis-homepage-build/static/media/Pretendard-ExtraLight.6591d0775b8172aee406.otf",
+    "static/media/Pretendard-Thin.otf": "/oasis-homepage-build/static/media/Pretendard-Thin.6c732c788300615e6a65.otf",
+    "index.html": "/oasis-homepage-build/index.html",
+    "main.b1db4d27.css.map": "/oasis-homepage-build/static/css/main.b1db4d27.css.map",
+    "main.03d5cfc9.js.map": "/oasis-homepage-build/static/js/main.03d5cfc9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b82a0243.css",
+    "static/css/main.b1db4d27.css",
     "static/js/main.03d5cfc9.js"
   ]
 }
