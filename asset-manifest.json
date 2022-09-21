@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/oasis-homepage-build/static/css/main.b1db4d27.css",
-    "main.js": "/oasis-homepage-build/static/js/main.19a7e776.js",
+    "main.css": "/oasis-homepage-build/static/css/main.62b23a01.css",
+    "main.js": "/oasis-homepage-build/static/js/main.126a12de.js",
     "static/media/Pretendard-Light.otf": "/oasis-homepage-build/static/media/Pretendard-Light.b751f0c99ed43c34e627.otf",
     "static/media/Pretendard-Medium.otf": "/oasis-homepage-build/static/media/Pretendard-Medium.a8904df42c9b4f93a668.otf",
     "static/media/Pretendard-SemiBold.otf": "/oasis-homepage-build/static/media/Pretendard-SemiBold.d8e6b49c5bbba3cd911b.otf",
@@ -15,8 +15,8 @@
     "static/media/OASISBot.png": "/oasis-homepage-build/static/media/OASISBot.f0aaf60313b4db57b07b.png",
     "static/media/BackTest.png": "/oasis-homepage-build/static/media/BackTest.6d32b9df0cd051e3cf59.png",
     "static/media/nft2.png": "/oasis-homepage-build/static/media/nft2.55e2ef59b560e8a32775.png",
+    "static/media/logo.png": "/oasis-homepage-build/static/media/logo.37503363e0d4afb9f031.png",
     "static/media/nft4.png": "/oasis-homepage-build/static/media/nft4.45493e53e7baed089d26.png",
-    "static/media/logo.png": "/oasis-homepage-build/static/media/logo.f008e478ff6584f91e11.png",
     "static/media/nft3.png": "/oasis-homepage-build/static/media/nft3.0a31b108aedb76492cfc.png",
     "static/media/nft1.png": "/oasis-homepage-build/static/media/nft1.4ee9c5b73a755ca122d4.png",
     "static/media/Additional.png": "/oasis-homepage-build/static/media/Additional.6fd3f7e81124f28c0785.png",
@@ -27,11 +27,11 @@
     "static/media/upbit.png": "/oasis-homepage-build/static/media/upbit.580284ff830259cde121.png",
     "static/media/title.png": "/oasis-homepage-build/static/media/title.dda46c8a641493e3ffde.png",
     "index.html": "/oasis-homepage-build/index.html",
-    "main.b1db4d27.css.map": "/oasis-homepage-build/static/css/main.b1db4d27.css.map",
-    "main.19a7e776.js.map": "/oasis-homepage-build/static/js/main.19a7e776.js.map"
+    "main.62b23a01.css.map": "/oasis-homepage-build/static/css/main.62b23a01.css.map",
+    "main.126a12de.js.map": "/oasis-homepage-build/static/js/main.126a12de.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1db4d27.css",
-    "static/js/main.19a7e776.js"
+    "static/css/main.62b23a01.css",
+    "static/js/main.126a12de.js"
   ]
 }
